@@ -1,0 +1,92 @@
+/* 
+  Localizable.strings
+  Miramax Fillms
+
+  Created by Thanh Quang on 21/09/2022.
+  
+*/
+
+"cancel" = "Cancel";
+"error" = "Error";
+"an_error_occurred" = "An error occurred. Please try again!";
+"movie" = "Movie";
+"movies" = "Movies";
+"tvshow" = "TV Show";
+"tvshows" = "TV Shows";
+"upcoming" = "Upcoming";
+"top_rating" = "Top rating";
+"news" = "News";
+"trending" = "Trending";
+"now_playing" = "Now playing";
+"on_the_air" = "On The Air";
+"search" = "Search";
+"search_bar_placeholder" = "Movies, TV Shows, Actor,...";
+"search_result_empty" = "No search results found";
+"search_result_found" = "Search results found";
+"recent" = "Recent";
+"actors" = "Actors";
+"rating" = "Rating";
+"duration" = "Duration";
+"episodes" = "Episodes";
+"year" = "Year";
+"unknown" = "Unknown";
+"retry" = "Retry";
+"try_again" = "Try again";
+"overview" = "Overview";
+"seasons" = "Seasons";
+"gallery" = "Gallery";
+"recommend" = "Recommend";
+"see_more" = "See more";
+"see_less" = "See less";
+"movie_genres" = "Movie Genres";
+"refresh" = "Refresh";
+"play_trailer" = "Play Trailer";
+"loading" = "Loading";
+"selfie_with_movie" = "Selfie with movie";
+"selfie_with_movie_title" = "Take a picture with your \nfavorite movie";
+"selfie_with_movie_action_button_title" = "Choose frame";
+"view_all" = "View all";
+"setting" = "Setting";
+"policy" = "Policy";
+"feedback" = "Feedback";
+"share_app" = "Share app";
+"genres" = "Genres";
+"wishlist" = "Wishlist";
+"clear" = "Clear";
+"added_to_wishlist" = "Added to wishlist";
+"remove_all" = "Remove All";
+"wishlist_result_empty" = "No items added to wishlist";
+"remove_all_wishlist_alert_title" = "Remove All Wishlist";
+"remove_all_wishlist_alert_message" = "Are you sure you would like to remove all items from the favorite";
+"remove_item_wishlist_alert_title" = "Remove Wishlist";
+"remove_item_wishlist_alert_message" = "Are you sure you would like to remove this item from the favorite";
+"remove" = "Remove";
+"delete" = "Delete";
+"sorted_by" = "Sorted by";
+"selfie_movie" = "Selfie movie";
+"popular" = "Popular";
+"favorite" = "Favorite";
+"apply" = "Apply";
+"recenlty" = "Recenlty";
+"error_importing_image" = "Error while importing the image.";
+"error_capture_image" = "Error while capture the image.";
+"get_camera_device_error" = "Error while get camera device.";
+"initialize_camera_device_error" = "Error unable to initialize camera.";
+"grant" = "Grant";
+"no_camera_permisison_grant_access" = "No camera permission \nPlease grant access permission to continue";
+"camera_restricted_alert_title" = "Restricted";
+"camera_restricted_alert_message" = "You've been restricted from using the camera on this device. Without camera access this feature won't work. Please contact the device owner so they can give you access.";
+"search_selfie_movie_placeholder" = "Search Movies";
+"error_importing_image" = "Error while importing the image.";
+"error_capture_image" = "Error while capture the image.";
+"save_image_success_title" = "Image Saved";
+"save_image_success_message" = "Image successfully saved to Photos library";
+"share_image" = "Share image";
+"add_image_favorite" = "Favorite image";
+"add_image_favorite_successfully" = "Add image favorite successfully!";
+"add_image_favorite_failed" = "Add image favorite failed. Please try again!";
+"add_image_favorite_already_exist" = "Image already add to favorite!";
+"movie_selfie" = "Movie Selfie";
+"enter_location" = "Enter Location";
+"select_date" = "Select Date";
+"done" = "Done";

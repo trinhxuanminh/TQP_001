@@ -1,0 +1,164 @@
+PODS:
+  - Action (5.0.0):
+    - RxCocoa (~> 6.0)
+    - RxSwift (~> 6.0)
+  - Alamofire (5.6.2)
+  - DeviceKit (4.7.0)
+  - Differentiator (5.0.0)
+  - FSCalendar (2.8.4)
+  - Kingfisher (6.3.1)
+  - MaterialComponents/Availability (124.2.0)
+  - MaterialComponents/BottomSheet (124.2.0):
+    - MaterialComponents/Elevation
+    - MaterialComponents/private/KeyboardWatcher
+    - MaterialComponents/private/Math
+    - MaterialComponents/ShadowElevations
+    - MaterialComponents/ShadowLayer
+    - MaterialComponents/ShapeLibrary
+    - MaterialComponents/Shapes
+  - MaterialComponents/Elevation (124.2.0):
+    - MaterialComponents/Availability
+    - MaterialComponents/private/Color
+    - MaterialComponents/private/Math
+  - MaterialComponents/private/Application (124.2.0)
+  - MaterialComponents/private/Color (124.2.0):
+    - MaterialComponents/Availability
+  - MaterialComponents/private/KeyboardWatcher (124.2.0):
+    - MaterialComponents/private/Application
+  - MaterialComponents/private/Math (124.2.0)
+  - MaterialComponents/ShadowElevations (124.2.0)
+  - MaterialComponents/ShadowLayer (124.2.0):
+    - MaterialComponents/ShadowElevations
+  - MaterialComponents/ShapeLibrary (124.2.0):
+    - MaterialComponents/private/Math
+    - MaterialComponents/Shapes
+  - MaterialComponents/Shapes (124.2.0):
+    - MaterialComponents/private/Color
+    - MaterialComponents/private/Math
+    - MaterialComponents/ShadowLayer
+  - MKProgress (1.1.0)
+  - Moya/Core (15.0.0):
+    - Alamofire (~> 5.0)
+  - Moya/RxSwift (15.0.0):
+    - Moya/Core
+    - RxSwift (~> 6.0)
+  - ObjectMapper (4.2.0)
+  - Realm (10.28.6):
+    - Realm/Headers (= 10.28.6)
+  - Realm/Headers (10.28.6)
+  - RealmSwift (10.28.6):
+    - Realm (= 10.28.6)
+  - RxCocoa (6.1.0):
+    - RxRelay (= 6.1.0)
+    - RxSwift (= 6.1.0)
+  - RxDataSources (5.0.0):
+    - Differentiator (~> 5.0)
+    - RxCocoa (~> 6.0)
+    - RxSwift (~> 6.0)
+  - RxRealm (5.0.4):
+    - Realm (~> 10.21)
+    - RealmSwift (~> 10.21)
+    - RxCocoa (~> 6.1)
+    - RxSwift (~> 6.1)
+  - RxRelay (6.1.0):
+    - RxSwift (= 6.1.0)
+  - RxSwift (6.1.0)
+  - RxSwiftExt (6.0.1):
+    - RxSwiftExt/Core (= 6.0.1)
+    - RxSwiftExt/RxCocoa (= 6.0.1)
+  - RxSwiftExt/Core (6.0.1):
+    - RxSwift (~> 6.0)
+  - RxSwiftExt/RxCocoa (6.0.1):
+    - RxCocoa (~> 6.0)
+    - RxSwiftExt/Core
+  - SnapKit (5.0.1)
+  - SwifterSwift/UIKit (5.2.0)
+  - Swinject (2.8.2)
+  - TagListView (1.4.1)
+  - XCoordinator (2.2.0):
+    - XCoordinator/Core (= 2.2.0)
+  - XCoordinator/Core (2.2.0)
+  - XCoordinator/RxSwift (2.2.0):
+    - RxSwift (~> 6.1)
+    - XCoordinator/Core
+  - youtube-ios-player-helper (1.0.4)
+
+DEPENDENCIES:
+  - Action (~> 5.0.0)
+  - DeviceKit (~> 4.0)
+  - FSCalendar
+  - Kingfisher
+  - MaterialComponents/BottomSheet (~> 124.2.0)
+  - MKProgress
+  - Moya/RxSwift (~> 15.0)
+  - ObjectMapper (~> 4.2.0)
+  - RealmSwift (~> 10)
+  - RxCocoa (~> 6.1.0)
+  - RxDataSources (~> 5.0.0)
+  - RxRealm (~> 5.0.4)
+  - RxSwift (~> 6.1.0)
+  - RxSwiftExt (~> 6.0.1)
+  - SnapKit (~> 5.0.0)
+  - SwifterSwift/UIKit
+  - Swinject (~> 2.8.2)
+  - TagListView (~> 1.0)
+  - XCoordinator (~> 2.2.0)
+  - XCoordinator/RxSwift (~> 2.2.0)
+  - youtube-ios-player-helper (~> 1.0.4)
+
+SPEC REPOS:
+  trunk:
+    - Action
+    - Alamofire
+    - DeviceKit
+    - Differentiator
+    - FSCalendar
+    - Kingfisher
+    - MaterialComponents
+    - MKProgress
+    - Moya
+    - ObjectMapper
+    - Realm
+    - RealmSwift
+    - RxCocoa
+    - RxDataSources
+    - RxRealm
+    - RxRelay
+    - RxSwift
+    - RxSwiftExt
+    - SnapKit
+    - SwifterSwift
+    - Swinject
+    - TagListView
+    - XCoordinator
+    - youtube-ios-player-helper
+
+SPEC CHECKSUMS:
+  Action: 47f1825511907b4fcd79dd7a7db9526c20f78018
+  Alamofire: d368e1ff8a298e6dde360e35a3e68e6c610e7204
+  DeviceKit: c870c34f7c0e0ac4caa6f052e6efe7ef1472c5a1
+  Differentiator: e8497ceab83c1b10ca233716d547b9af21b9344d
+  FSCalendar: 2d1d0d9398f12d439f55c1fe0f01525b151b8260
+  Kingfisher: 016c8b653a35add51dd34a3aba36b580041acc74
+  MaterialComponents: 1a9b2d9d45b1601ae544de85089adc4c464306d4
+  MKProgress: 260d166200323f3d991190a73ab2dc3a04b0f52f
+  Moya: 138f0573e53411fb3dc17016add0b748dfbd78ee
+  ObjectMapper: 1eb41f610210777375fa806bf161dc39fb832b81
+  Realm: 9b12f16a14446d7d46a9e36225d0a0332a6ec739
+  RealmSwift: 5927726fce21005f43b1fb57c832297a22031bfc
+  RxCocoa: 5c51f02d562cbd94629f6c26cf0c80fe4ab8d343
+  RxDataSources: aa47cc1ed6c500fa0dfecac5c979b723542d79cf
+  RxRealm: 666c8785327fe2fff972a3093b35dc7055c1ca38
+  RxRelay: 483e1a19fad961b41f0b0c0bee506f46c1ae14fe
+  RxSwift: a834e5c538e89eca0cae86f403f4fbf0336786ce
+  RxSwiftExt: d61c4b9b06e0a448041b1c659e0f1b5c5a035afc
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+  SwifterSwift: 334181863c416882d97b7a60c05054d9e4d799e2
+  Swinject: b4a11b31992e8668308dc594ba1cb9b3164a37ab
+  TagListView: a1c236d17960a0cf64156725a76ce6d73ebce2be
+  XCoordinator: a5f91e43ee944f508529763921165697d3211629
+  youtube-ios-player-helper: e9b97535e816db3152179d84d999bc1807ecd689
+
+PODFILE CHECKSUM: 989881bc07cc5069fe7046414c06786007397d3d
+
+COCOAPODS: 1.12.0
