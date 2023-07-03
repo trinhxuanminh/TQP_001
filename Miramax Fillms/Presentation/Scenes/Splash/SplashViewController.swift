@@ -30,8 +30,10 @@ class SplashViewController: BaseViewController<SplashViewModel> {
         self.registerAds(show: PlayerManager.shared.getAllowShowAds())
       }
     }
-    PlayerManager.shared.changeLoading()
-    PlayerManager.shared.changePlayColor()
+    PlayerManager.shared.changeLoading(indicator: AppColors.colorAccent, title: AppColors.colorAccent)
+    PlayerManager.shared.changePlayColor(indicator: AppColors.colorAccent,
+                                         back: AppColors.colorAccent,
+                                         selectTitleServer: AppColors.colorAccent)
   }
 }
 
